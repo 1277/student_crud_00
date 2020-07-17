@@ -1,0 +1,19 @@
+{
+  "name": "student_crud_00",
+  "version": "0.0.1",
+  "description": "简单的crud demo以json作为持久化介质",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dong",
+  "license": "ISC",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^3.4.1",
+    "express": "^4.17.1",
+    "express-art-template": "^1.0.1",
+    "jquery": "^1.12.4"
+  }
+}
